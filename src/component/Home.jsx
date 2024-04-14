@@ -64,7 +64,7 @@ const Home = () => {
                 </pre>
             </div>
             <Link 
-                to="/"/*About*/ 
+                to="/About" 
                 className="contenedorFlecha" 
                 onMouseEnter={() => setOcultar(true)} 
                 onMouseLeave={() => setOcultar(false)}>

@@ -6,7 +6,7 @@ import { HashRouter as Router, Route, Switch, Link } from 'react-router-dom';
 
 
 
-/*import About from './About.jsx';*/
+import About from './About.jsx';
 
 
 const Home = () => {

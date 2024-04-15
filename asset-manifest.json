@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/un_repositorio/static/css/main.37f13c02.css",
-    "main.js": "/un_repositorio/static/js/main.47116634.js",
+    "main.js": "/un_repositorio/static/js/main.6684353c.js",
     "static/js/453.ff635a80.chunk.js": "/un_repositorio/static/js/453.ff635a80.chunk.js",
     "static/media/CV_sebastian.pdf": "/un_repositorio/static/media/CV_sebastian.5f6e1c206eecee27a9d5.pdf",
+    "static/media/tragosPop.png": "/un_repositorio/static/media/tragosPop.a126d59d1c1c9df661ce.png",
+    "static/media/estudioJuridico.png": "/un_repositorio/static/media/estudioJuridico.666896606b4785edb4ff.png",
+    "static/media/alegra.png": "/un_repositorio/static/media/alegra.d31bd821412d0dfd6f1a.png",
     "static/media/foto_ficha.jpg": "/un_repositorio/static/media/foto_ficha.483dac75cc0d545bd710.jpg",
     "static/media/Sql-logo.png": "/un_repositorio/static/media/Sql-logo.afbd978acfdab75a2860.png",
     "static/media/CSS-logo.png": "/un_repositorio/static/media/CSS-logo.0ab5bb990ff418695d40.png",
@@ -13,14 +16,17 @@
     "static/media/React-icono.png": "/un_repositorio/static/media/React-icono.6938413c3420be9963da.png",
     "static/media/Python-logo.png": "/un_repositorio/static/media/Python-logo.df775919609488040087.png",
     "static/media/nodejs-icono.png": "/un_repositorio/static/media/nodejs-icono.6e111241dc2e2663e853.png",
+    "static/media/batallaNaval.png": "/un_repositorio/static/media/batallaNaval.7f7a00985a907dd458de.png",
+    "static/media/AhorcadoConsola.png": "/un_repositorio/static/media/AhorcadoConsola.c43e3852216a9509a639.png",
+    "static/media/ahorcadoGrafico.png": "/un_repositorio/static/media/ahorcadoGrafico.e18ae683ef816777de4d.png",
     "static/media/Kotlin_logo.png": "/un_repositorio/static/media/Kotlin_logo.28eaff7e8eaf7205cd32.png",
     "index.html": "/un_repositorio/index.html",
     "main.37f13c02.css.map": "/un_repositorio/static/css/main.37f13c02.css.map",
-    "main.47116634.js.map": "/un_repositorio/static/js/main.47116634.js.map",
+    "main.6684353c.js.map": "/un_repositorio/static/js/main.6684353c.js.map",
     "453.ff635a80.chunk.js.map": "/un_repositorio/static/js/453.ff635a80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37f13c02.css",
-    "static/js/main.47116634.js"
+    "static/js/main.6684353c.js"
   ]
 }

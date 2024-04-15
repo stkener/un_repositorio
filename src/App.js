@@ -5,7 +5,7 @@ import Home from './component/Home';
 import About from "./component/About";
 import Proyectos from "./component/Proyectos";
 import Experiencia from "./component/Experiencia";
-
+import Educacion from "./component/Educacion";
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
           <Route path="/About" element={<About />} />
           <Route path="/Proyectos" element={<Proyectos />} />
           <Route path="/Experiencia" element={<Experiencia />} />
-          
+          <Route path="/Educacion" element={<Educacion />} />
         </Routes>
       </div>
     </Router> 
@@ -24,17 +24,3 @@ function App() {
 }
 
 export default App;
-/*
-
-
-
-
-import Educacion from "./component/Educacion";
-
-
-          
-          
-          
-          <Route path="/Educacion" element={<Educacion />} />
-
-*/
